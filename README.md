@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hola mundo 👋
 
-<!--
-**UMGCCCFCSR/UMGCCCFCSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cytometry in R - Starter Questions
 
-Here are some ideas to get you started:
+Whatever information you want to include to your public profile. See the ReadMe for [UMGCCFCSS]() and [David Rach]() for examples.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Favorite Fluorophore: Spark Blue 550
+
+- Previous coding experience: Calling IT
+
+- What you hope to get from this course: A thousand tiny sparks
+
+### Traditional Profile
+
+Our current projects:
+
+- [CytometryInR_2026](https://umgccfcss.github.io/CytometryInR/) Upcoming Cytometry In R mini course aimed at coding beginners, both in-person and virtual.
+- [InstrumentQC](https://umgccfcss.github.io/InstrumentQC/) A website to monitor daily QC status of our instruments in real time. 
+- [BISCC_2025](https://github.com/UMGCCFCSS/BISCC_2025) Course materials for the 2025 Baltimore Introductory Spectral Cytometry Course.
