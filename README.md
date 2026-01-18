@@ -6,7 +6,7 @@ The University of Maryland Greenebaum Comprehensive Cancer Center [Flow Cytometr
 
 We are an ISAC-recognized [Shared Resource Laboratory](https://isac-net.org/page/Recognized-SRLs#)
 
-![](https://umgccfcss.github.io/Instruments/SRL_Logo.png){width=50%}
+![](https://umgccfcss.github.io/Instruments/SRL_Logo.png}
 
 ### Current Projects:
 
