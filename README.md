@@ -12,7 +12,7 @@ We are an ISAC-recognized [Shared Resource Laboratory](https://isac-net.org/page
 
 - [CytometryInR](https://umgcccfcsr.github.io/CytometryInR/) Our free Cytometry In R mini course, aimed at those with previous cytometry experience, but no to-little coding experience. Being offered both in-person and online, starting February 1st, 2026.
 - [InstrumentQC](https://umgccfcss.github.io/InstrumentQC/) Our automated dashboard tracking our instruments QC status, updated daily at 11 AM EST (1600 GMT+0)
-- [BISCC_2025](https://github.com/UMGCCFCSS/BISCC_2025) Interactive reference materials for the 2025 Baltimore Introductory Spectral Cytometry Course.
+- [BISCC_2026](https://github.com/UMGCCCFCSR/BISCC2026) Interactive reference materials for the 2026 Baltimore Introductory Spectral Cytometry Course.
 
 ## Cytometry in R - Starter Questions 
 
